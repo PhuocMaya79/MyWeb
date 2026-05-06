@@ -1,12 +1,144 @@
-Đây là bản phác thảo (wireframe) website portfolio gồm 5 trang.
-Trang chủ: ảnh đại diện, tên, nút xem dự án và vài dự án nổi bật.
-Trang giới thiệu: thông tin cá nhân, kinh nghiệm và kỹ năng.
-Trang dự án: lưới các dự án dạng card để xem danh sách.
-Trang chi tiết dự án: ảnh lớn + mô tả + hình minh họa.
-Trang liên hệ: form gửi tin nhắn và thông tin email, điện thoại.
+🌐 Chức năng chính của website cá nhân
 
+Website này dùng để:
 
-<img width="1280" height="853" alt="photo_6309574079480009603_y" src="https://github.com/user-attachments/assets/0a8777a7-d710-46ea-a3f8-f0b545471e5c" />
+Giới thiệu bản thân (ai bạn là ai, làm gì)
+Trưng bày dự án đã thực hiện
+Thể hiện kỹ năng & kinh nghiệm
+Kết nối với khách hàng / nhà tuyển dụng
+Chia sẻ kiến thức qua blog
+
+👉 Hiểu đơn giản: đây là “CV online + portfolio + blog” trong một.
+
+📄 1. Trang chủ (Home)
+
+Mục đích: Gây ấn tượng đầu tiên và dẫn người xem đi khám phá tiếp
+
+Nội dung chính:
+
+Lời chào + tên + nghề nghiệp
+→ Ví dụ: “Tôi là Nguyễn Thành Phước – Thiết kế Web”
+Mô tả ngắn:
+→ Bạn làm gì, mang lại giá trị gì
+Hình minh họa (mockup, sản phẩm)
+Nút kêu gọi hành động:
+“Xem dự án”
+“Tìm hiểu thêm”
+Icon mạng xã hội (LinkedIn, Behance,...)
+
+👉 Trang này cần:
+
+Ngắn gọn
+Rõ ràng
+Thu hút ngay 5–10 giây đầu
+👤 2. Trang Giới thiệu (About)
+
+Mục đích: Giúp người xem hiểu rõ về bạn
+
+Nội dung:
+
+Ảnh cá nhân + tên + vai trò
+Mô tả chi tiết:
+Bạn là ai
+Định hướng nghề nghiệp
+Kỹ năng (hiển thị dạng thanh %):
+UX/UI
+Web Design
+Development
+Công cụ sử dụng:
+VS Code, Figma, Git, Photoshop,...
+Kinh nghiệm:
+Số năm làm việc
+Dự án thực tế
+Kỹ năng mềm:
+Làm việc nhóm
+Giao tiếp
+Thông tin liên hệ
+
+👉 Trang này giúp tạo niềm tin
+
+💼 3. Trang Dự án (Projects)
+
+Mục đích: Trưng bày sản phẩm đã làm
+
+Nội dung:
+
+Danh sách các dự án (dạng card)
+Mỗi dự án gồm:
+Hình ảnh preview
+Tên dự án
+Mô tả ngắn
+Ngày thực hiện
+Bộ lọc:
+Tất cả
+Web
+Mobile
+Thương hiệu
+Phân trang (nhiều dự án)
+
+👉 Đây là phần quan trọng nhất nếu bạn làm nghề thiết kế/dev
+
+📊 4. Trang Chi tiết dự án (Project Detail)
+
+Mục đích: Trình bày sâu về từng dự án
+
+Nội dung:
+
+Ảnh lớn dự án
+Thông tin:
+Khách hàng
+Công nghệ sử dụng
+Mô tả dự án
+Hành trình người dùng (User Flow):
+Đăng ký
+Tìm kiếm
+Đánh giá
+Kết quả đạt được:
+Tăng doanh thu
+Cải thiện hiệu suất
+Trải nghiệm tốt hơn
+
+👉 Trang này thể hiện:
+
+Cách bạn suy nghĩ
+Cách bạn giải quyết vấn đề
+✍️ 5. Trang Blog & Liên hệ (Blog)
+
+Mục đích: Chia sẻ kiến thức + nhận liên hệ
+
+Nội dung:
+
+Blog:
+Bài viết chia sẻ:
+Kinh nghiệm
+Kiến thức thiết kế / lập trình
+Giúp tăng uy tín cá nhân
+Form liên hệ:
+Họ tên
+Email
+Nội dung
+Nút “Gửi”
+Thông tin liên hệ:
+Số điện thoại
+Email
+
+👉 Trang này giúp:
+
+Khách hàng dễ liên hệ
+Tăng độ chuyên nghiệp
+🎯 Tóm lại
+
+Website gồm 5 phần chính:
+
+Trang chủ → gây ấn tượng
+Giới thiệu → xây dựng niềm tin
+Dự án → chứng minh năng lực
+Chi tiết dự án → thể hiện tư duy
+Blog & Liên hệ → kết nối & chia sẻ
+
+Ứng dụng tôi tham khảo và làm mẫu : Canva
+
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/a02ad827-e0af-4389-90ed-989d389e882e" />
 
 
 
