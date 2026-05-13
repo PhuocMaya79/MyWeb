@@ -12,6 +12,10 @@ Chia sẻ kiến thức qua blog
 
 📄 1. Trang chủ (Home)
 
+<img width="637" height="479" alt="image" src="https://github.com/user-attachments/assets/10e6d6a7-4058-4676-b231-6323c50827d6" />
+
+
+
 Mục đích: Gây ấn tượng đầu tiên và dẫn người xem đi khám phá tiếp
 
 Nội dung chính:
@@ -32,6 +36,10 @@ Ngắn gọn
 Rõ ràng
 Thu hút ngay 5–10 giây đầu
 👤 2. Trang Giới thiệu (About)
+
+<img width="956" height="765" alt="image" src="https://github.com/user-attachments/assets/94f50439-c8ba-4e15-981e-2ec99ff00f89" />
+
+
 
 Mục đích: Giúp người xem hiểu rõ về bạn
 
@@ -59,6 +67,10 @@ Thông tin liên hệ
 
 💼 3. Trang Dự án (Projects)
 
+<img width="255" height="369" alt="image" src="https://github.com/user-attachments/assets/801913b7-d509-4afb-91d0-1852ace4c40d" />
+
+
+
 Mục đích: Trưng bày sản phẩm đã làm
 
 Nội dung:
@@ -79,6 +91,11 @@ Phân trang (nhiều dự án)
 👉 Đây là phần quan trọng nhất nếu bạn làm nghề thiết kế/dev
 
 📊 4. Trang Chi tiết dự án (Project Detail)
+
+
+<img width="263" height="368" alt="image" src="https://github.com/user-attachments/assets/7de39039-7c7b-4387-8043-61e2b4cc5c9e" />
+
+
 
 Mục đích: Trình bày sâu về từng dự án
 
@@ -103,6 +120,10 @@ Trải nghiệm tốt hơn
 Cách bạn suy nghĩ
 Cách bạn giải quyết vấn đề
 ✍️ 5. Trang Blog & Liên hệ (Blog)
+
+
+<img width="284" height="380" alt="image" src="https://github.com/user-attachments/assets/1bff1980-8b4c-4474-b712-0b0d448fec3a" />
+
 
 Mục đích: Chia sẻ kiến thức + nhận liên hệ
 
