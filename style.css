@@ -1,0 +1,92 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:Arial;
+}
+
+body{
+  background:#f5f5f5;
+}
+
+header{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:20px 100px;
+  background:white;
+}
+
+nav a{
+  margin-left:20px;
+  text-decoration:none;
+  color:black;
+}
+
+.logo{
+  font-size:28px;
+  font-weight:bold;
+  color:#5b3df5;
+}
+
+section{
+  padding:60px 100px;
+}
+
+.home,
+.about,
+.project-detail,
+.blog{
+  display:flex;
+  align-items:center;
+  gap:50px;
+}
+
+.home-text,
+.about-content,
+.detail-content,
+.blog-content{
+  flex:1;
+}
+
+.home-image,
+.profile,
+.detail-image,
+.contact-form{
+  flex:1;
+}
+
+img{
+  width:100%;
+  border-radius:10px;
+}
+
+button{
+  margin-top:20px;
+  padding:12px 25px;
+  border:none;
+  background:#5b3df5;
+  color:white;
+  border-radius:5px;
+  cursor:pointer;
+}
+
+.project-grid{
+  margin-top:40px;
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:30px;
+}
+
+.card{
+  background:white;
+  padding:20px;
+  border-radius:10px;
+}
+
+input,
+textarea{
+  width:100%;
+  margin-top:15px;
+  padding:12px;
+}
